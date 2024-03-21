@@ -1,11 +1,11 @@
 /* Стилі для заголовка */
 h1 {
     text-align: center; /* Центрувати заголовок */
-    color: blue;
+    color: red;
 }
 
 /* Стилі для абзаців */
 p {
     text-align: center; /* Центрувати текст абзаців */
-    color: blue;
+    color: red;
 }
